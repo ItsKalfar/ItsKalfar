@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ItsKalfar
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning backend development with node js
-- 💞️ I’m looking to collaborate on web development projects with react and next js
+- 👋 Hi, I’m Sagar Gund
+- 👀 I’m a MERN stack developer
+- 🌱 I’m currently learning blockchain development with solidity and hardhat
+- 💞️ I’m looking for oppurtunities in Web development as well as Blockchain development
 - 📫 You can connect with me on twiiter at @HeyitsSagar20
