@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sagar Gund
-- 👀 I’m a MERN stack developer
-- 🌱 I’m currently learning blockchain development with solidity and hardhat
+- 👀 I’m a Full Stack Blockchain developer
+- 🌱 I’m currently learning advanced React and blockchain concepts 
 - 💞️ I’m looking for oppurtunities in Web development as well as Blockchain development
 - 📫 You can connect with me on twiiter at @HeyitsSagar20
