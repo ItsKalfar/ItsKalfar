@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/heyitssagar" target="blank"><img src="https://img.shields.io/twitter/follow/heyitssagar?logo=twitter&style=for-the-badge" alt="heyitssagar" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m currently learning **Typescript and Ethereum Blockchain development**
 
-- 💬 Ask me about **React, Next Js, Frontend, Blockchain**
+- 💬 You can ask me about **React, Next Js, Frontend, Ethereum blockchain**
 
 - 📫 Reach me at **gundsagar02@gmail.com**
 
