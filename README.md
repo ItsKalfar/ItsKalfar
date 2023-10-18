@@ -1,4 +1,4 @@
-![I am Sagar Gund](https://www.canva.com/design/DAFX0MYR-xg/b3hFS8j30S0p2oH66IUdwg/edit?utm_content=DAFX0MYR-xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![I am Sagar Gund](https://github.com/ItsKalfar/QuickChat/assets/86675223/25d7d1db-31f3-43eb-b247-7315e4005bac)
 
 <h1 align="center">Hi 👋, I'm Sagar Gund</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
