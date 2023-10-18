@@ -1,4 +1,4 @@
-![I am Sagar Gund](https://user-images.githubusercontent.com/86675223/212636170-e68f6534-0e40-4c7a-aab4-6957fcd45a18.png)
+![I am Sagar Gund](https://www.canva.com/design/DAFX0MYR-xg/b3hFS8j30S0p2oH66IUdwg/edit?utm_content=DAFX0MYR-xg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Sagar Gund</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
