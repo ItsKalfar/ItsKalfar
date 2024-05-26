@@ -1,4 +1,3 @@
-![I am Sagar Gund](https://github.com/ItsKalfar/QuickChat/assets/86675223/25d7d1db-31f3-43eb-b247-7315e4005bac)
 
 <h1 align="center">Hi 👋, I'm Sagar Gund</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
