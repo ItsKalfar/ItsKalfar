@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Go, System Design and AWS**, while concurrently honing my expertise in **relational databases** and **backend skills**
 
-- 💬 You can ask me about **React.js, Next.js, Express.js, Databases, and blockchain development**
+- 💬 You can ask me about **React.js, Next.js, Express.js, Databases, and Scaling applications**
 
 - 📫 Reach me at **gundsagar02@gmail.com**
 
