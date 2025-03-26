@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyitssagar" target="blank"><img src="https://img.shields.io/twitter/follow/heyitssagar?logo=twitter&style=for-the-badge" alt="heyitssagar" /></a> </p>
 
-- 🌱 I’m currently learning **Go, System Design and AWS**, while concurrently honing my expertise in **relational databases** and **backend skills**
+- 🌱 I’m currently learning **Rust, Go, System Design and AWS**, while concurrently honing my expertise in **graph databases** and **backend skills**
 
 - 💬 You can ask me about **React.js, Next.js, Express.js, Databases, and Scaling applications**
 
