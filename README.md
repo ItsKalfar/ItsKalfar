@@ -6,7 +6,7 @@ I build products across the stack, from the database and background workers to t
 
 ## What I've shipped
 
-- **3 products owned end-to-end **, from data model and backend services to the frontend.
+- **3 products owned end-to-end**, from data model and backend services to the frontend.
 - **Work across 3 databases** (PostgreSQL, MongoDB, Neo4j), including moving 5 backend services from Neo4j to PostgreSQL.
 - **Subscription billing**, an event-driven workflow covering activations, payment failures, grace periods, cancellations, card expiry, and upgrades.
 - **Camera-to-cloud uploads**, the first capability of its kind the company shipped to production.
