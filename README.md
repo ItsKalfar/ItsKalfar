@@ -11,7 +11,7 @@ I build products across the stack, from the database and background workers to t
 - **Subscription billing**, an event-driven workflow covering activations, payment failures, grace periods, cancellations, card expiry, and upgrades.
 - **Camera-to-cloud uploads**, the first capability of its kind the company shipped to production.
 - **Background workers and cron jobs** for processing, billing, and cleanup tasks.
-- ** Queue-based pipelines** for moving work between services reliably.
+- **Queue-based pipelines** for moving work between services reliably.
 - **gRPC services**, including a file storage service with hierarchical permissions.
 
 ## What I'm working on
